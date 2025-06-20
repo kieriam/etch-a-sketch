@@ -1,1 +1,1 @@
-# etch-a-sketch
+Przyszłościowo można by dodać guzik zapisujący nbaprawdę ładne obrazki, jedyne czego ww tym projekcie nie ogarnalem to ze w query selected jest all pozatym gitówa wymysliłem# etch-a-sketch
